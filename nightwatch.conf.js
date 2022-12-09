@@ -15,8 +15,8 @@ const LTOptions = {
       "tunnel" : "false",
       "seleniumVersion" : "4.0.0",
   },
-  "user": 'neerajn',
-  "accessKey": 'J3zIzXZfnxcFZDjaG5SmRb9cIUjoRtjzcX5fPsQcWxVkxBX3Lf'
+  "user": '',
+  "accessKey": ''
 }
 
 const lambdatest = {
