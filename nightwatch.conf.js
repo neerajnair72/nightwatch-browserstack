@@ -46,8 +46,8 @@ const nightwatchConfigs = {
     "lambdatest.chrome": {
       ...lambdatest,
       desiredCapabilities:{
-        "user": 'neerajn',
-        "accessKey": 'J3zIzXZfnxcFZDjaG5SmRb9cIUjoRtjzcX5fPsQcWxVkxBX3Lf',
+        "user": '',
+        "accessKey": '',
         "LT:Options":{        
           browserName: 'chrome',
           "selenium_version" : "4.1.2",
